@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Embeddings
+
+**Embryo Embeddings** is Embryo-Zero's fork of [chroma](https://github.com/chroma-core/chroma), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ![Chroma](./docs/assets/chroma-wordmark-color.png#gh-light-mode-only)
 ![Chroma](./docs/assets/chroma-wordmark-white.png#gh-dark-mode-only)
 
